@@ -1,0 +1,2 @@
+git init - iniciar um repositório git
+git add - adiciona um arquivo
