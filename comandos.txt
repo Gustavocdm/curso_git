@@ -3,3 +3,4 @@ git add - adiciona um arquivo ao repositório // . para adicionar todos os arqui
 git commit - commita as mudanças realizadas // -a flag para adicionar todos os arquivos, -m flag para mandar o commit com uma mensagem
 git branch - cria uma branch
 git status - mostra o status do repositório
+git clone "endereço https do repo" . // Clona um repositório // . para diretório atual
