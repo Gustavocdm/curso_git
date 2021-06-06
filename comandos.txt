@@ -8,3 +8,4 @@ git rm "nome do arquivo" - remove um arquivo do projeto
 git log - mostra o log de commit do projeto
 git mv - move o arquivo de local ou muda o nome do arquivo
 git checkout - desfaz as alterações feitas no branch local
+git reset - reseta todas as alterações feitas em um branch
