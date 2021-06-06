@@ -1,4 +1,5 @@
 git init - iniciar um repositório git
-git add - adiciona um arquivo
-git commit - commita
+git add - adiciona um arquivo ao repositório 
+git commit - commita as mudanças realizadas
 git branch - cria uma branch
+git status - mostra o status do repositório
